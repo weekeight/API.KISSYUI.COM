@@ -2,7 +2,8 @@ YUI.add("yuidoc-meta", function(Y) {
    Y.YUIDoc = { meta: {
     "classes": [
         "Features",
-        "UA"
+        "UA",
+        "Util"
     ],
     "modules": [
         "UA",
